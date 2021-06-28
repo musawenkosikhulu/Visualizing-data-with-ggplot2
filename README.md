@@ -1,0 +1,2 @@
+# Visualizing-data-with-ggplot2
+ggplot2 is an R package for data visualization. In this activity I learn about the basic logic of data visualization in ggplot2 and how to create a plot using R code.   By the time I complete this activity, I’ll be able to write R functions that create data visualizations. This will enable me to create basic visualizations to demonstrate and share findings with my data and code.
